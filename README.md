@@ -7,6 +7,10 @@ GitHub repo: https://github.com/generic-pers0n/cs2400-dsa
 
 Video demonstration: https://youtu.be/xWoI3Sqxsc0
 
+IDE/Editor used: VS Code 1.103.2
+
+Screencast softwared used in the video: OBS Studio
+
 ## Description
 This is my "first" GitHub repo for my CS 2400 class. It's supposed to be our
 very first repo after creating a GitHub account, but this isn't my first repo
