@@ -3,7 +3,9 @@
 ## Important Details
 Name: Avery King
 
-GitHub Repo: https://github.com/generic-pers0n/cs2400-dsa
+GitHub repo: https://github.com/generic-pers0n/cs2400-dsa
+
+Video demonstration: https://youtu.be/xWoI3Sqxsc0
 
 ## Description
 This is my "first" GitHub repo for my CS 2400 class. It's supposed to be our
