@@ -27,7 +27,7 @@ public class SimpleSwingNoteApp {
         HashMap<String, String> notes = new HashMap<>();
 
         JTextField titleField = new JTextField();
-        JButton newButton = null;
+        JButton newButton = new JButton("LOL");
         JButton saveButton = new JButton("Save");
         JButton deleteButton = new JButton("Delete");
 
