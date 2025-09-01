@@ -2,6 +2,7 @@
 
 ## Important Details
 Name: Avery King
+
 GitHub Repo: https://github.com/generic-pers0n/cs2400-dsa
 
 ## Description
