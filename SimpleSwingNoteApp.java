@@ -11,10 +11,6 @@ import java.util.HashMap;
 
 public class SimpleSwingNoteApp {
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(SimpleSwingNoteApp::createAndShowGUI);
-    }
-
-    private static void createAndShowGUI() {
         JFrame frame = new JFrame("Simple Note Manager");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 350);
