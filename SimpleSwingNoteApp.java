@@ -27,7 +27,7 @@ public class SimpleSwingNoteApp {
         HashMap<String, String> notes = new HashMap<>();
 
         JTextField titleField = new JTextField();
-        JButton newButton = new JButton("New");
+        JButton newButton = null;
         JButton saveButton = new JButton("Save");
         JButton deleteButton = new JButton("Delete");
 
@@ -81,13 +81,7 @@ public class SimpleSwingNoteApp {
 
         // Delete note
         deleteButton.addActionListener(e -> {
-            String title = noteList.getSelectedValue();
-            if (title != null) {
-                notes.remove(title);
-                noteTitles.removeElement(title);
-                titleField.setText("");
-                noteArea.setText("");
-            }
+            throw new NullPointerException("YOLO");
         });
 
         frame.setVisible(true);
