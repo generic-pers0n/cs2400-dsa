@@ -9,7 +9,7 @@ Video demonstration: https://youtu.be/xWoI3Sqxsc0
 
 IDE/Editor used: VS Code 1.103.2
 
-Screencast softwared used in the video: OBS Studio
+Screencast softwared used in the video: OBS Studio 31.1.2
 
 ## Description
 This is my "first" GitHub repo for my CS 2400 class. It's supposed to be our
